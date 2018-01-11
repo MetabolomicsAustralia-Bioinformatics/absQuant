@@ -1,2 +1,4 @@
-# absQuant
-Calculate absolute concentrations for metabolites using calibration curve data
+# concentrations
+concentrations stuff for LCMS
+
+Provided calibration curve data, calculate absolute analyte concentrations.
